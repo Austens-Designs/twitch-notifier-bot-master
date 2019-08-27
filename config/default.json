@@ -1,0 +1,14 @@
+{ "configuration": {
+        "commandPrefix": "!",
+        "logfile": "./discord-twitch-bot.log",
+        "authToken": "NjE0NDk2MTk2MjkwOTM2ODM0.XWAUMg.0AnuArzzcBy2tkKCJMpPzwQAf7I",
+        "adminUserId": "austen#8271",
+        "channelId": "590274359659200521", 
+        "serverId": "590274359659200513",
+        "nickname": "Rogue Twitch Bot",
+        "currentGame": "Rogue Twitch Bot", 
+        "twitch": {
+		"interval": 300,
+		"token": "17s09z5x6le8d10z4wzy9msooq83nr"
+	}
+} }
