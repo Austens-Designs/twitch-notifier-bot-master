@@ -1,6 +1,11 @@
+\\ 
+# Do not claim my bot as you own. Makeing small edits do not count as a major change.
+\\
+
+
 # new-ed-info
 
-Discord bot to notify multiple servers (in set channels) when a Twitch streamer goes live. Uses some code (and principles) from [fuyuneko's bot](<https://github.com/fuyuneko/discord-twitch-bot>)
+Discord bot to notify multiple servers (in set channels) when a Twitch streamer goes live. Uses some code (and principles) from https://github.com/Austens-Designs/twitch-notifier-bot-master
 
 ## Features
 
@@ -13,7 +18,7 @@ Discord bot to notify multiple servers (in set channels) when a Twitch streamer 
 
 ## Installation
 
-**If this is too much horsing around for a single Discord bot, I run an instance of the bot myself. [Here's the invite link.](<https://discordapp.com/oauth2/authorize?client_id=411338896178282499&scope=bot&permissions=104321088>) AS SOON AS YOU GET IT INVITED INTO YOUR SERVER, PLEASE CONTACT ME FOR THE FINAL SETUP PROCESS. This will no longer be required when I finally get around to implementing the Discord permissions support in the next major version. Keep an eye on this repository for news on that particular front.**
+**If this is too much horsing around for a single Discord bot, I run an instance of the bot myself. [Here's the invite link.](<https://discordapp.com/api/oauth2/authorize?client_id=611621822806622248&permissions=0&scope=bot>) **
 
 1. Install basic system utilities
 
@@ -27,7 +32,7 @@ https://nodejs.org/en/download/current/
 
 3. Install your dependencies:
 
-```npm install Woor/discord.io#gateway_v6 config https```
+```npm install npm install https://github.com/woor/discord.io/tarball/gateway_v6 config https```
 
 Uses the following libraries:
 - [Woor's fork of izy521's `discord.io`](<https://github.com/Woor/discord.io/tree/gateway_v6>)
@@ -65,4 +70,4 @@ Uses the following libraries:
 
 See the `!help` and `!botmanagement help` commands for further usage.
 
-## [To-do](<https://github.com/DJArghlex/twitch-notifier-bot/issues?q=label%3Aenhancement+>)
+
